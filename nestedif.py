@@ -16,6 +16,6 @@ elif (per>=45):
     else:
         print("c+ grade")
 else:
-    print("fail")
+    print("fail:u have to prepare for next exam")
 
 
